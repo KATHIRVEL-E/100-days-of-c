@@ -12,3 +12,6 @@ printf("enterd number is odd number");
 }
 return 0;
 }
+/*OUTPUT
+enter a number:5
+enterd number is odd number*/
