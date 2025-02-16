@@ -11,4 +11,8 @@ double doublevalue;
   printf("The size of doublevalue:%u bytes\n",sizeof(double));
   return 0;
 }
-//output
+/*output
+The size of integer:4 bytes
+The size of floating point:4 bytes
+The size of character:1 bytes
+The size of doublevalue:8 bytes*/
